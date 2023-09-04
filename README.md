@@ -25,7 +25,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,blender,bootstrap,css,dart,discord,django,express,figma,firebase,flask,flutter,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
+  <img src="https://skillicons.dev/icons?i=flask,git,github,gitlab,linux,mysql,ps,py,selenium,vscode&perline=10">
 </p>
 
 
