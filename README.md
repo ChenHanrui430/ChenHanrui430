@@ -11,11 +11,9 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [Computer Vision](https://github.com/ChenHanrui430/foodie)
+- 🔭 I’m currently working on deep learning, [Computer Vision](https://github.com/ChenHanrui430/foodie)
 
 - 🌱 I’m currently learning **Python, Matlab, Rust**
-
-- 👯 I am looking for opportunities to study for a **Ph.D**
 
 - 💬 Ask me about **Deep learning, Pytorch, Python**
 
