@@ -11,7 +11,7 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on deep learning, [Computer Vision](https://github.com/ChenHanrui430/foodie)
+- 🔭 I’m currently working on deep learning, cyber security, [computer Vision](https://github.com/ChenHanrui430/foodie)
 
 - 🌱 I’m currently learning **Python, Matlab, Rust**
 
@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **1356100020@qq.com**
 
-- 🐍 `print(random.choice(dev_quote))`
 </div>
 
 
